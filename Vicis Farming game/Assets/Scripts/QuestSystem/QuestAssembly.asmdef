@@ -1,0 +1,17 @@
+{
+    "name": "QuestAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:340e007e6187bbc46a5f7883c6991f5d",
+        "GUID:2083f0a005a609b43a6efc63bc1bdc34"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

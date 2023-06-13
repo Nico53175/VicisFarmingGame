@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03b3bc6f59f67b84c9f8d2299826e973, type: 3}
+  m_Name: "J\xFCrgenSpeechBubbleData"
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: -1763042768660890948, guid: 26d435702dedb784694895af12418eff, type: 3}
+  - {fileID: 471867440123196941, guid: 26d435702dedb784694895af12418eff, type: 3}
+  - {fileID: 115607988344813760, guid: 26d435702dedb784694895af12418eff, type: 3}
+  - {fileID: 8822306666804214290, guid: 26d435702dedb784694895af12418eff, type: 3}
+  - {fileID: -5062521928083122968, guid: 26d435702dedb784694895af12418eff, type: 3}
+  - {fileID: 6300492707659323463, guid: 26d435702dedb784694895af12418eff, type: 3}
+  - {fileID: 1340888109145691972, guid: 26d435702dedb784694895af12418eff, type: 3}
+  - {fileID: 1695883372381541779, guid: 26d435702dedb784694895af12418eff, type: 3}
+  - {fileID: 5754051264613655668, guid: 26d435702dedb784694895af12418eff, type: 3}
+  - {fileID: 7097760966228701653, guid: 26d435702dedb784694895af12418eff, type: 3}
+  - {fileID: -2809078906728917497, guid: 26d435702dedb784694895af12418eff, type: 3}

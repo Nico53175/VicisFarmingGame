@@ -1,0 +1,16 @@
+{
+    "name": "NPCAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cef62a04e58e0d54b9117c8287d21e0f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

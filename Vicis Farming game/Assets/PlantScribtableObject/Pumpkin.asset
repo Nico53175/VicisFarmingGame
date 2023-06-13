@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d003c0e6b0e1a5f4c87b3d390087aba4, type: 3}
+  m_Name: Pumpkin
+  m_EditorClassIdentifier: 
+  plantName: Pumpkin
+  plantSprite: {fileID: -8213598911967906879, guid: afda4cedd10beb942a0a9fcb40a307b0, type: 3}
+  seedSprite: {fileID: -5604778100396346613, guid: afda4cedd10beb942a0a9fcb40a307b0, type: 3}
+  price: 10
+  growthSprites:
+  - {fileID: 1388931573533829247, guid: afda4cedd10beb942a0a9fcb40a307b0, type: 3}
+  - {fileID: 423058873985303232, guid: afda4cedd10beb942a0a9fcb40a307b0, type: 3}
+  - {fileID: -2347519039065572971, guid: afda4cedd10beb942a0a9fcb40a307b0, type: 3}
+  - {fileID: -7265317298993147403, guid: afda4cedd10beb942a0a9fcb40a307b0, type: 3}
+  - {fileID: -5284777172077136294, guid: afda4cedd10beb942a0a9fcb40a307b0, type: 3}
+  - {fileID: -4091597912636932369, guid: afda4cedd10beb942a0a9fcb40a307b0, type: 3}
+  growthTime: 25
+  harvestYield: 4
+  startCount: 5
